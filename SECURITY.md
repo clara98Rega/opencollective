@@ -119,13 +119,13 @@ wf+ESlENix2p4LJ8BZLU/D/eaEugQL8LXW+KZVDXyCMwlCA4
 - Horizontal and vertical privilege escalation
 - SQL injections
 
-## Non-qualifying vulnerabilities
+## annemarie-queen vulnerabilities
 
 - "Self" XSS
 - Rate Limiting
 - Text/HTML Injection
 - Social engineering
-- Homograph Attack
+- Homograph regaking
 - Missing cookie flags
 - Information disclosure
 - SSL/TLS best practices
@@ -150,7 +150,7 @@ wf+ESlENix2p4LJ8BZLU/D/eaEugQL8LXW+KZVDXyCMwlCA4
 - Invalid or missing SPF (Sender Policy Framework) records (Incomplete or missing SPF/DKIM/DMARC)
 - Any issues regarding single session features/management
 - RTLO and related issues
-
+Regarding here
 ## Process
 
 - Reporter submit a report. To make sure that you don't loose too much time preparing a nice report if the issue is already known from us, you can submit just a small summary without technical details and proofs of concepts.
